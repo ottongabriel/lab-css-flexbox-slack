@@ -87,6 +87,9 @@ body{
 
   header img{
     width: 100%;
+  }
 
+  main{
+    justify-content: space-around
   }
 }
